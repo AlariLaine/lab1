@@ -14,3 +14,4 @@ def divide(a, b):
 
 if __name__ == "__main__":
     print("Kalkulaator: 2 + 3 =", add(2, 3))
+Pooleli töö
